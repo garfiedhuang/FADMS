@@ -1,0 +1,48 @@
+.m-block{
+    border: 1px solid #5E9CD3;
+}
+
+.g-left, .g-right {
+    width: 50%;
+    float: left;
+
+}
+.g-left .f-left{
+    width: 50%;
+}
+.g-right .m-block{
+    margin-left: 5px;
+    min-height:470px;
+}
+.u-gauge-container{
+    height:200px;
+}
+.u-gauge{
+    height:200px;
+}
+.u-line-container{
+    height:200px;
+}
+.u-line{
+    height:200px;
+}
+.m-block .u-cont{
+    line-height: 52px;
+}
+.m-block .u-cont:last-child{
+    padding: 5px 0;
+    padding-left: 50px
+}
+
+
+table{border-collapse:collapse;border-spacing:0;}
+/* 表头固定内容滚动的表格  */
+.m-demo{margin:15px 0 10px 0;line-height:18px;color:#fff;text-align: left;font-weight:bold}
+.m-demo .scroll{max-height:381px;overflow-y:auto;border:none;}
+.m-demo table{width:100%;table-layout:fixed;}
+.m-demo th,.m-demo td{width:150px;padding:5px;border:none;font-size: 16px;}
+.m-demo th{
+    font-size: 17px;
+}
+.m-demo th{color:#62CEF3;}
+.m-demo thead th:last-child,.m-demo tbody td:last-child{width:auto;}

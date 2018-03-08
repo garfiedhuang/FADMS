@@ -1,0 +1,163 @@
+{
+  "status": "200",
+  "message": "返回成功",
+  "result": {
+    "transferIncome": {
+      "name": "转移性收入",
+      "data": [
+        {
+          "name": "因公出国(境)经费",
+          "value": 21302.21
+        },{
+          "name": "公务车购置及运行费",
+          "value": 9302.21
+        },{
+          "name": "公务接待",
+          "value": 302.21
+        }
+      ]
+    },
+    "incomeCompare": {
+      "name": "转移性收入对比情况",
+      "data": {
+        "oldYear": [
+          {
+            "name": "1月",
+            "value": 1350
+          },
+          {
+            "name": "2月",
+            "value": 1180
+          },
+          {
+            "name": "3月",
+            "value": 1100
+          },
+          {
+            "name": "4月",
+            "value": 2100
+          },
+          {
+            "name": "5月",
+            "value": 1350
+          },
+          {
+            "name": "6月",
+            "value": 1180
+          },
+          {
+            "name": "7月",
+            "value": 1100
+          },
+          {
+            "name": "8月",
+            "value": 2100
+          },
+          {
+            "name": "9月",
+            "value": 1350
+          },
+          {
+            "name": "10月",
+            "value": 1180
+          },
+          {
+            "name": "11月",
+            "value": 1100
+          },
+          {
+            "name": "12月",
+            "value": 2100
+          }
+        ],
+        "cucrYear": [
+          {
+            "name": "1月",
+            "value": 1030
+          },
+          {
+            "name": "2月",
+            "value": 1830
+          },
+          {
+            "name": "3月",
+            "value": 1340
+          },
+          {
+            "name": "4月",
+            "value": 1230
+          },
+          {
+            "name": "5月",
+            "value": 1320
+          },
+          {
+            "name": "6月",
+            "value": 1930
+          },
+          {
+            "name": "7月",
+            "value": 1330
+          },
+          {
+            "name": "8月",
+            "value": 1360
+          },
+          {
+            "name": "9月",
+            "value": 1530
+          },
+          {
+            "name": "10月",
+            "value": 1330
+          },
+          {
+            "name": "11月",
+            "value": 1360
+          },
+          {
+            "name": "12月",
+            "value": 1230
+          }
+        ]
+      }
+    },
+    "payInfo": {
+      "name": "指标信息",
+      "data": [
+        {
+          "type": "1",
+          "value": "行政政法股"
+        },
+        {
+          "type": "2",
+          "value": "体育局"
+        },{
+          "type": "3",
+          "value": "省级"
+        },{
+          "type": "4",
+          "value": "公共财政预算"
+        },{
+          "type": "5",
+          "value": "行政运行"
+        },{
+          "type": "6",
+          "value": "公共接待"
+        },{
+          "type": "7",
+          "value": "公用经费"
+        },{
+          "type": "8",
+          "value": "100000"
+        },{
+          "type": "9",
+          "value": "20000"
+        },{
+          "type": "10",
+          "value": "80000"
+        }
+      ]
+    }
+  }
+}

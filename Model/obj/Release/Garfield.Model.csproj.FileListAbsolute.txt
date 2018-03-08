@@ -1,0 +1,9 @@
+G:\FADMS\Source\Model\bin\Release\Garfield.Model.dll
+G:\FADMS\Source\Model\bin\Release\Garfield.Common.dll
+G:\FADMS\Source\Model\bin\Release\OpenSmtp.dll
+G:\FADMS\Source\Model\bin\Release\Excel.dll
+G:\FADMS\Source\Model\bin\Release\COM.Excel.dll
+G:\FADMS\Source\Model\bin\Release\Newtonsoft.Json.dll
+G:\FADMS\Source\Model\bin\Release\Newtonsoft.Json.xml
+G:\FADMS\Source\Model\obj\Release\Garfield.Model.csprojResolveAssemblyReference.cache
+G:\FADMS\Source\Model\obj\Release\Garfield.Model.dll

@@ -1,0 +1,14 @@
+G:\FADMS\Source\DAL\obj\Release\Garfield.DAL.csprojResolveAssemblyReference.cache
+G:\FADMS\Source\DAL\bin\Release\Garfield.DAL.dll
+G:\FADMS\Source\DAL\bin\Release\Garfield.Common.dll
+G:\FADMS\Source\DAL\bin\Release\Garfield.DBUtility.dll
+G:\FADMS\Source\DAL\bin\Release\Garfield.Model.dll
+G:\FADMS\Source\DAL\bin\Release\MySql.Data.dll
+G:\FADMS\Source\DAL\bin\Release\OpenSmtp.dll
+G:\FADMS\Source\DAL\bin\Release\Excel.dll
+G:\FADMS\Source\DAL\bin\Release\COM.Excel.dll
+G:\FADMS\Source\DAL\bin\Release\Newtonsoft.Json.dll
+G:\FADMS\Source\DAL\bin\Release\IBatisNet.DataMapper.dll
+G:\FADMS\Source\DAL\bin\Release\IBatisNet.Common.dll
+G:\FADMS\Source\DAL\bin\Release\Newtonsoft.Json.xml
+G:\FADMS\Source\DAL\obj\Release\Garfield.DAL.dll

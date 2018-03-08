@@ -1,0 +1,155 @@
+F:\VS 2010\XHDcrm\CRM\bin\CRM.dll
+F:\VS 2010\XHDcrm\CRM\bin\CRM.pdb
+F:\VS 2010\XHDcrm\CRM\bin\XHD.BLL.dll
+F:\VS 2010\XHDcrm\CRM\bin\XHD.Common.dll
+F:\VS 2010\XHDcrm\CRM\bin\XHD.DAL.dll
+F:\VS 2010\XHDcrm\CRM\bin\XHD.Model.dll
+F:\VS 2010\XHDcrm\CRM\bin\Newtonsoft.Json.Net35.dll
+F:\VS 2010\XHDcrm\CRM\bin\OpenSmtp.dll
+F:\VS 2010\XHDcrm\CRM\bin\Excel.dll
+F:\VS 2010\XHDcrm\CRM\bin\COM.Excel.dll
+F:\VS 2010\XHDcrm\CRM\bin\XHD.DBUtility.dll
+F:\VS 2010\XHDcrm\CRM\bin\IBatisNet.DataMapper.dll
+F:\VS 2010\XHDcrm\CRM\bin\IBatisNet.Common.dll
+F:\VS 2010\XHDcrm\CRM\bin\MySql.Data.dll
+F:\VS 2010\XHDcrm\CRM\bin\XHD.BLL.pdb
+F:\VS 2010\XHDcrm\CRM\bin\XHD.Common.pdb
+F:\VS 2010\XHDcrm\CRM\bin\XHD.DAL.pdb
+F:\VS 2010\XHDcrm\CRM\bin\XHD.Model.pdb
+F:\VS 2010\XHDcrm\CRM\obj\Debug\CRM.csprojResolveAssemblyReference.cache
+F:\VS 2010\XHDcrm\CRM\obj\Debug\CRM.csproj.ResolveComReference.cache
+F:\VS 2010\XHDcrm\CRM\obj\Debug\CRM.dll
+F:\VS 2010\XHDcrm\CRM\obj\Debug\CRM.pdb
+F:\VS 2010\XHDcrm\CRM\bin\XHD.DBUtility.pdb
+D:\系统\桌面\小黄豆CRM源码\小黄豆CRM v1.15.0.5\XHDcrm\CRM\bin\CRM.dll
+D:\系统\桌面\小黄豆CRM源码\小黄豆CRM v1.15.0.5\XHDcrm\CRM\bin\CRM.pdb
+D:\系统\桌面\小黄豆CRM源码\小黄豆CRM v1.15.0.5\XHDcrm\CRM\bin\XHD.BLL.dll
+D:\系统\桌面\小黄豆CRM源码\小黄豆CRM v1.15.0.5\XHDcrm\CRM\bin\XHD.Common.dll
+D:\系统\桌面\小黄豆CRM源码\小黄豆CRM v1.15.0.5\XHDcrm\CRM\bin\XHD.DAL.dll
+D:\系统\桌面\小黄豆CRM源码\小黄豆CRM v1.15.0.5\XHDcrm\CRM\bin\XHD.DBUtility.dll
+D:\系统\桌面\小黄豆CRM源码\小黄豆CRM v1.15.0.5\XHDcrm\CRM\bin\XHD.Model.dll
+D:\系统\桌面\小黄豆CRM源码\小黄豆CRM v1.15.0.5\XHDcrm\CRM\bin\Newtonsoft.Json.Net35.dll
+D:\系统\桌面\小黄豆CRM源码\小黄豆CRM v1.15.0.5\XHDcrm\CRM\bin\OpenSmtp.dll
+D:\系统\桌面\小黄豆CRM源码\小黄豆CRM v1.15.0.5\XHDcrm\CRM\bin\Excel.dll
+D:\系统\桌面\小黄豆CRM源码\小黄豆CRM v1.15.0.5\XHDcrm\CRM\bin\COM.Excel.dll
+D:\系统\桌面\小黄豆CRM源码\小黄豆CRM v1.15.0.5\XHDcrm\CRM\bin\IBatisNet.DataMapper.dll
+D:\系统\桌面\小黄豆CRM源码\小黄豆CRM v1.15.0.5\XHDcrm\CRM\bin\IBatisNet.Common.dll
+D:\系统\桌面\小黄豆CRM源码\小黄豆CRM v1.15.0.5\XHDcrm\CRM\bin\MySql.Data.dll
+D:\系统\桌面\小黄豆CRM源码\小黄豆CRM v1.15.0.5\XHDcrm\CRM\bin\XHD.BLL.pdb
+D:\系统\桌面\小黄豆CRM源码\小黄豆CRM v1.15.0.5\XHDcrm\CRM\bin\XHD.Common.pdb
+D:\系统\桌面\小黄豆CRM源码\小黄豆CRM v1.15.0.5\XHDcrm\CRM\bin\XHD.DAL.pdb
+D:\系统\桌面\小黄豆CRM源码\小黄豆CRM v1.15.0.5\XHDcrm\CRM\bin\XHD.DBUtility.pdb
+D:\系统\桌面\小黄豆CRM源码\小黄豆CRM v1.15.0.5\XHDcrm\CRM\bin\XHD.Model.pdb
+D:\系统\桌面\小黄豆CRM源码\小黄豆CRM v1.15.0.5\XHDcrm\CRM\obj\Debug\CRM.csprojResolveAssemblyReference.cache
+D:\系统\桌面\小黄豆CRM源码\小黄豆CRM v1.15.0.5\XHDcrm\CRM\obj\Debug\CRM.csproj.ResolveComReference.cache
+D:\系统\桌面\小黄豆CRM源码\小黄豆CRM v1.15.0.5\XHDcrm\CRM\obj\Debug\CRM.dll
+D:\系统\桌面\小黄豆CRM源码\小黄豆CRM v1.15.0.5\XHDcrm\CRM\obj\Debug\CRM.pdb
+E:\郝光明工作\代码审核\1月份工作\1.6\第五个小黄豆\小黄豆CRM v1.15.0.5\小黄豆CRM v1.15.0.5源码\XHDcrm\CRM\bin\CRM.dll
+E:\郝光明工作\代码审核\1月份工作\1.6\第五个小黄豆\小黄豆CRM v1.15.0.5\小黄豆CRM v1.15.0.5源码\XHDcrm\CRM\bin\CRM.pdb
+E:\郝光明工作\代码审核\1月份工作\1.6\第五个小黄豆\小黄豆CRM v1.15.0.5\小黄豆CRM v1.15.0.5源码\XHDcrm\CRM\bin\XHD.BLL.dll
+E:\郝光明工作\代码审核\1月份工作\1.6\第五个小黄豆\小黄豆CRM v1.15.0.5\小黄豆CRM v1.15.0.5源码\XHDcrm\CRM\bin\XHD.Common.dll
+E:\郝光明工作\代码审核\1月份工作\1.6\第五个小黄豆\小黄豆CRM v1.15.0.5\小黄豆CRM v1.15.0.5源码\XHDcrm\CRM\bin\XHD.DAL.dll
+E:\郝光明工作\代码审核\1月份工作\1.6\第五个小黄豆\小黄豆CRM v1.15.0.5\小黄豆CRM v1.15.0.5源码\XHDcrm\CRM\bin\XHD.DBUtility.dll
+E:\郝光明工作\代码审核\1月份工作\1.6\第五个小黄豆\小黄豆CRM v1.15.0.5\小黄豆CRM v1.15.0.5源码\XHDcrm\CRM\bin\XHD.Model.dll
+E:\郝光明工作\代码审核\1月份工作\1.6\第五个小黄豆\小黄豆CRM v1.15.0.5\小黄豆CRM v1.15.0.5源码\XHDcrm\CRM\bin\Newtonsoft.Json.Net35.dll
+E:\郝光明工作\代码审核\1月份工作\1.6\第五个小黄豆\小黄豆CRM v1.15.0.5\小黄豆CRM v1.15.0.5源码\XHDcrm\CRM\bin\OpenSmtp.dll
+E:\郝光明工作\代码审核\1月份工作\1.6\第五个小黄豆\小黄豆CRM v1.15.0.5\小黄豆CRM v1.15.0.5源码\XHDcrm\CRM\bin\Excel.dll
+E:\郝光明工作\代码审核\1月份工作\1.6\第五个小黄豆\小黄豆CRM v1.15.0.5\小黄豆CRM v1.15.0.5源码\XHDcrm\CRM\bin\COM.Excel.dll
+E:\郝光明工作\代码审核\1月份工作\1.6\第五个小黄豆\小黄豆CRM v1.15.0.5\小黄豆CRM v1.15.0.5源码\XHDcrm\CRM\bin\IBatisNet.DataMapper.dll
+E:\郝光明工作\代码审核\1月份工作\1.6\第五个小黄豆\小黄豆CRM v1.15.0.5\小黄豆CRM v1.15.0.5源码\XHDcrm\CRM\bin\IBatisNet.Common.dll
+E:\郝光明工作\代码审核\1月份工作\1.6\第五个小黄豆\小黄豆CRM v1.15.0.5\小黄豆CRM v1.15.0.5源码\XHDcrm\CRM\bin\XHD.BLL.pdb
+E:\郝光明工作\代码审核\1月份工作\1.6\第五个小黄豆\小黄豆CRM v1.15.0.5\小黄豆CRM v1.15.0.5源码\XHDcrm\CRM\bin\XHD.Common.pdb
+E:\郝光明工作\代码审核\1月份工作\1.6\第五个小黄豆\小黄豆CRM v1.15.0.5\小黄豆CRM v1.15.0.5源码\XHDcrm\CRM\bin\XHD.DAL.pdb
+E:\郝光明工作\代码审核\1月份工作\1.6\第五个小黄豆\小黄豆CRM v1.15.0.5\小黄豆CRM v1.15.0.5源码\XHDcrm\CRM\bin\XHD.DBUtility.pdb
+E:\郝光明工作\代码审核\1月份工作\1.6\第五个小黄豆\小黄豆CRM v1.15.0.5\小黄豆CRM v1.15.0.5源码\XHDcrm\CRM\bin\XHD.Model.pdb
+E:\郝光明工作\代码审核\1月份工作\1.6\第五个小黄豆\小黄豆CRM v1.15.0.5\小黄豆CRM v1.15.0.5源码\XHDcrm\CRM\obj\Debug\CRM.csprojResolveAssemblyReference.cache
+E:\郝光明工作\代码审核\1月份工作\1.6\第五个小黄豆\小黄豆CRM v1.15.0.5\小黄豆CRM v1.15.0.5源码\XHDcrm\CRM\obj\Debug\CRM.csproj.ResolveComReference.cache
+E:\郝光明工作\代码审核\1月份工作\1.6\第五个小黄豆\小黄豆CRM v1.15.0.5\小黄豆CRM v1.15.0.5源码\XHDcrm\CRM\obj\Debug\CRM.dll
+E:\郝光明工作\代码审核\1月份工作\1.6\第五个小黄豆\小黄豆CRM v1.15.0.5\小黄豆CRM v1.15.0.5源码\XHDcrm\CRM\obj\Debug\CRM.pdb
+F:\项目参照\xhdcrm_v1.15\CRM\bin\CRM.dll
+F:\项目参照\xhdcrm_v1.15\CRM\bin\CRM.pdb
+F:\项目参照\xhdcrm_v1.15\CRM\bin\XHD.BLL.dll
+F:\项目参照\xhdcrm_v1.15\CRM\bin\XHD.Common.dll
+F:\项目参照\xhdcrm_v1.15\CRM\bin\XHD.DAL.dll
+F:\项目参照\xhdcrm_v1.15\CRM\bin\XHD.Model.dll
+F:\项目参照\xhdcrm_v1.15\CRM\bin\OpenSmtp.dll
+F:\项目参照\xhdcrm_v1.15\CRM\bin\Newtonsoft.Json.Net35.dll
+F:\项目参照\xhdcrm_v1.15\CRM\bin\Excel.dll
+F:\项目参照\xhdcrm_v1.15\CRM\bin\COM.Excel.dll
+F:\项目参照\xhdcrm_v1.15\CRM\bin\IBatisNet.DataMapper.dll
+F:\项目参照\xhdcrm_v1.15\CRM\bin\IBatisNet.Common.dll
+F:\项目参照\xhdcrm_v1.15\CRM\bin\XHD.BLL.pdb
+F:\项目参照\xhdcrm_v1.15\CRM\bin\XHD.Common.pdb
+F:\项目参照\xhdcrm_v1.15\CRM\bin\XHD.DAL.pdb
+F:\项目参照\xhdcrm_v1.15\CRM\bin\XHD.DBUtility.pdb
+F:\项目参照\xhdcrm_v1.15\CRM\bin\XHD.Model.pdb
+F:\项目参照\xhdcrm_v1.15\CRM\obj\Debug\ResolveAssemblyReference.cache
+F:\项目参照\xhdcrm_v1.15\CRM\obj\Debug\CRM.csproj.ResolveComReference.cache
+F:\项目参照\xhdcrm_v1.15\CRM\obj\Debug\CRM.dll
+F:\项目参照\xhdcrm_v1.15\CRM\obj\Debug\CRM.pdb
+F:\我的项目\我的淘宝\1428\ASP.NET客户关系管理系统源代码客户管理源代码人事管理源代码\code\CRM\bin\CRM.dll
+F:\我的项目\我的淘宝\1428\ASP.NET客户关系管理系统源代码客户管理源代码人事管理源代码\code\CRM\bin\CRM.pdb
+F:\我的项目\我的淘宝\1428\ASP.NET客户关系管理系统源代码客户管理源代码人事管理源代码\code\CRM\bin\XHD.BLL.dll
+F:\我的项目\我的淘宝\1428\ASP.NET客户关系管理系统源代码客户管理源代码人事管理源代码\code\CRM\bin\XHD.Common.dll
+F:\我的项目\我的淘宝\1428\ASP.NET客户关系管理系统源代码客户管理源代码人事管理源代码\code\CRM\bin\XHD.DAL.dll
+F:\我的项目\我的淘宝\1428\ASP.NET客户关系管理系统源代码客户管理源代码人事管理源代码\code\CRM\bin\XHD.Model.dll
+F:\我的项目\我的淘宝\1428\ASP.NET客户关系管理系统源代码客户管理源代码人事管理源代码\code\CRM\bin\OpenSmtp.dll
+F:\我的项目\我的淘宝\1428\ASP.NET客户关系管理系统源代码客户管理源代码人事管理源代码\code\CRM\bin\Newtonsoft.Json.Net35.dll
+F:\我的项目\我的淘宝\1428\ASP.NET客户关系管理系统源代码客户管理源代码人事管理源代码\code\CRM\bin\Excel.dll
+F:\我的项目\我的淘宝\1428\ASP.NET客户关系管理系统源代码客户管理源代码人事管理源代码\code\CRM\bin\COM.Excel.dll
+F:\我的项目\我的淘宝\1428\ASP.NET客户关系管理系统源代码客户管理源代码人事管理源代码\code\CRM\bin\IBatisNet.DataMapper.dll
+F:\我的项目\我的淘宝\1428\ASP.NET客户关系管理系统源代码客户管理源代码人事管理源代码\code\CRM\bin\IBatisNet.Common.dll
+F:\我的项目\我的淘宝\1428\ASP.NET客户关系管理系统源代码客户管理源代码人事管理源代码\code\CRM\bin\XHD.BLL.pdb
+F:\我的项目\我的淘宝\1428\ASP.NET客户关系管理系统源代码客户管理源代码人事管理源代码\code\CRM\bin\XHD.Common.pdb
+F:\我的项目\我的淘宝\1428\ASP.NET客户关系管理系统源代码客户管理源代码人事管理源代码\code\CRM\bin\XHD.DAL.pdb
+F:\我的项目\我的淘宝\1428\ASP.NET客户关系管理系统源代码客户管理源代码人事管理源代码\code\CRM\bin\XHD.DBUtility.pdb
+F:\我的项目\我的淘宝\1428\ASP.NET客户关系管理系统源代码客户管理源代码人事管理源代码\code\CRM\bin\XHD.Model.pdb
+F:\我的项目\我的淘宝\1428\ASP.NET客户关系管理系统源代码客户管理源代码人事管理源代码\code\CRM\obj\Debug\ResolveAssemblyReference.cache
+F:\我的项目\我的淘宝\1428\ASP.NET客户关系管理系统源代码客户管理源代码人事管理源代码\code\CRM\obj\Debug\CRM.csproj.ResolveComReference.cache
+F:\我的项目\我的淘宝\1428\ASP.NET客户关系管理系统源代码客户管理源代码人事管理源代码\code\CRM\obj\Debug\CRM.dll
+F:\我的项目\我的淘宝\1428\ASP.NET客户关系管理系统源代码客户管理源代码人事管理源代码\code\CRM\obj\Debug\CRM.pdb
+F:\我的项目\我的淘宝\1429\ASP.NET客户关系管理系统源代码客户管理源代码人事管理源代码\code\CRM\bin\CRM.dll
+F:\我的项目\我的淘宝\1429\ASP.NET客户关系管理系统源代码客户管理源代码人事管理源代码\code\CRM\bin\CRM.pdb
+F:\我的项目\我的淘宝\1429\ASP.NET客户关系管理系统源代码客户管理源代码人事管理源代码\code\CRM\bin\XHD.BLL.dll
+F:\我的项目\我的淘宝\1429\ASP.NET客户关系管理系统源代码客户管理源代码人事管理源代码\code\CRM\bin\XHD.Common.dll
+F:\我的项目\我的淘宝\1429\ASP.NET客户关系管理系统源代码客户管理源代码人事管理源代码\code\CRM\bin\XHD.DAL.dll
+F:\我的项目\我的淘宝\1429\ASP.NET客户关系管理系统源代码客户管理源代码人事管理源代码\code\CRM\bin\XHD.Model.dll
+F:\我的项目\我的淘宝\1429\ASP.NET客户关系管理系统源代码客户管理源代码人事管理源代码\code\CRM\bin\OpenSmtp.dll
+F:\我的项目\我的淘宝\1429\ASP.NET客户关系管理系统源代码客户管理源代码人事管理源代码\code\CRM\bin\Newtonsoft.Json.Net35.dll
+F:\我的项目\我的淘宝\1429\ASP.NET客户关系管理系统源代码客户管理源代码人事管理源代码\code\CRM\bin\Excel.dll
+F:\我的项目\我的淘宝\1429\ASP.NET客户关系管理系统源代码客户管理源代码人事管理源代码\code\CRM\bin\COM.Excel.dll
+F:\我的项目\我的淘宝\1429\ASP.NET客户关系管理系统源代码客户管理源代码人事管理源代码\code\CRM\bin\IBatisNet.DataMapper.dll
+F:\我的项目\我的淘宝\1429\ASP.NET客户关系管理系统源代码客户管理源代码人事管理源代码\code\CRM\bin\IBatisNet.Common.dll
+F:\我的项目\我的淘宝\1429\ASP.NET客户关系管理系统源代码客户管理源代码人事管理源代码\code\CRM\bin\XHD.BLL.pdb
+F:\我的项目\我的淘宝\1429\ASP.NET客户关系管理系统源代码客户管理源代码人事管理源代码\code\CRM\bin\XHD.Common.pdb
+F:\我的项目\我的淘宝\1429\ASP.NET客户关系管理系统源代码客户管理源代码人事管理源代码\code\CRM\bin\XHD.DAL.pdb
+F:\我的项目\我的淘宝\1429\ASP.NET客户关系管理系统源代码客户管理源代码人事管理源代码\code\CRM\bin\XHD.DBUtility.pdb
+F:\我的项目\我的淘宝\1429\ASP.NET客户关系管理系统源代码客户管理源代码人事管理源代码\code\CRM\bin\XHD.Model.pdb
+F:\我的项目\我的淘宝\1429\ASP.NET客户关系管理系统源代码客户管理源代码人事管理源代码\code\CRM\obj\Debug\ResolveAssemblyReference.cache
+F:\我的项目\我的淘宝\1429\ASP.NET客户关系管理系统源代码客户管理源代码人事管理源代码\code\CRM\obj\Debug\CRM.csproj.ResolveComReference.cache
+F:\我的项目\我的淘宝\1429\ASP.NET客户关系管理系统源代码客户管理源代码人事管理源代码\code\CRM\obj\Debug\CRM.dll
+F:\我的项目\我的淘宝\1429\ASP.NET客户关系管理系统源代码客户管理源代码人事管理源代码\code\CRM\obj\Debug\CRM.pdb
+E:\Demo\uuuu\code\CRM\obj\Debug\CRM.csprojResolveAssemblyReference.cache
+E:\Demo\uuuu\code\CRM\obj\Debug\CRM.csproj.ResolveComReference.cache
+E:\Demo\uuuu\code\CRM\bin\CRM.dll.config
+E:\Demo\uuuu\code\CRM\bin\CRM.dll
+E:\Demo\uuuu\code\CRM\bin\CRM.pdb
+E:\Demo\uuuu\code\CRM\bin\XHD.BLL.dll
+E:\Demo\uuuu\code\CRM\bin\XHD.Common.dll
+E:\Demo\uuuu\code\CRM\bin\XHD.DAL.dll
+E:\Demo\uuuu\code\CRM\bin\XHD.DBUtility.dll
+E:\Demo\uuuu\code\CRM\bin\XHD.Model.dll
+E:\Demo\uuuu\code\CRM\bin\OpenSmtp.dll
+E:\Demo\uuuu\code\CRM\bin\Excel.dll
+E:\Demo\uuuu\code\CRM\bin\COM.Excel.dll
+E:\Demo\uuuu\code\CRM\bin\Newtonsoft.Json.Net35.dll
+E:\Demo\uuuu\code\CRM\bin\IBatisNet.DataMapper.dll
+E:\Demo\uuuu\code\CRM\bin\IBatisNet.Common.dll
+E:\Demo\uuuu\code\CRM\bin\MySql.Data.dll
+E:\Demo\uuuu\code\CRM\bin\XHD.BLL.pdb
+E:\Demo\uuuu\code\CRM\bin\XHD.Common.pdb
+E:\Demo\uuuu\code\CRM\bin\XHD.DAL.pdb
+E:\Demo\uuuu\code\CRM\bin\XHD.DBUtility.pdb
+E:\Demo\uuuu\code\CRM\bin\XHD.Model.pdb
+E:\Demo\uuuu\code\CRM\obj\Debug\CRM.dll
+E:\Demo\uuuu\code\CRM\obj\Debug\CRM.pdb

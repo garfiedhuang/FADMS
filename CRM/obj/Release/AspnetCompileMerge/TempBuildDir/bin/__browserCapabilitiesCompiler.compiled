@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/App_Browsers/" hash="711f0b37" filehash="ffffe7f7d3fb80c9" flags="110000" assembly="App_Browsers" type="ASP.ApplicationBrowserCapabilitiesFactory">
+    <filedeps>
+        <filedep name="/App_Browsers/IE10.browser" />
+    </filedeps>
+</preserve>

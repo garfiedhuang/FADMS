@@ -1,0 +1,47 @@
+.m-block{
+    border: 1px solid #5E9CD3;
+}
+.g-top{
+    overflow: hidden;
+    margin-top: 5px;
+}
+.g-top .m-left, .g-top .m-right {
+    width: 50%;
+    float: left;
+}
+.g-top .m-left .m-block {
+    margin-left: 20px;
+}
+.g-top .m-right .m-block {
+    margin-right: 20px;
+}
+.g-top .m-block .u-cont {
+    line-height: 42px;
+}
+.g-top .f-left {
+    width: 55%;
+}
+.g-top .f-right {
+    width: 45%;
+}
+.g-bottom .m-bottom {
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.g-bottom .m-bottom .m-block {
+    margin: 0 20px;
+}
+.u-line-container {
+    height: 203px;
+}
+.u-line {
+    height: 203px;
+}
+.u-pie-container {
+    height: 200px;
+}
+.u-pie {
+    height: 235px;
+}
+

@@ -1,0 +1,213 @@
+{
+  "status": "200",
+  "message": "返回成功",
+  "result": {
+    "taxRevenue": {
+      "name": "税收收入",
+      "data": [
+        {
+          "name": "第一季度",
+          "value": 335
+        },
+        {
+          "name": "第二季度",
+          "value": 310
+        },
+        {
+          "name": "第三季度",
+          "value": 310
+        },
+        {
+          "name": "第四季度",
+          "value": 310
+        }
+      ]
+    },
+    "notTaxRevenue": {
+      "name": "非税收入",
+      "data": [
+        {
+          "name": "第一季度",
+          "value": 135
+        },
+        {
+          "name": "第二季度",
+          "value": 110
+        },
+        {
+          "name": "第三季度",
+          "value": 310
+        },
+        {
+          "name": "第四季度",
+          "value": 310
+        }
+      ]
+    },
+    "functionPay": {
+      "name": "功能科目支出",
+      "data": [
+        {
+          "name": "教育支出",
+          "value": 135
+        },
+        {
+          "name": "文化支出",
+          "value": 110
+        },
+        {
+          "name": "医疗支出",
+          "value": 310
+        },
+        {
+          "name": "节能环保",
+          "value": 310
+        }
+      ]
+    },
+    "economyPay": {
+      "name": "经济分类支出",
+      "data": [
+        {
+          "name": "商品服务",
+          "value": 135
+        },
+        {
+          "name": "工资福利",
+          "value": 118
+        },
+        {
+          "name": "资本性支出",
+          "value": 110
+        },
+        {
+          "name": "债务支出",
+          "value": 210
+        }
+      ]
+    },
+    "incomeProgress": {
+      "name": "收入进度",
+      "data": [
+        {
+          "name": "完成率",
+          "value": 41
+        }
+      ]
+    },
+    "payProgress": {
+      "name": "支出进度",
+      "data": [
+        {
+          "name": "完成率",
+          "value": 53
+        }
+      ]
+    },
+    "balance": {
+      "name": "全年收支状况",
+      "data": {
+        "income": [
+          {
+            "name": "1月",
+            "value": 1350
+          },
+          {
+            "name": "2月",
+            "value": 1180
+          },
+          {
+            "name": "3月",
+            "value": 1100
+          },
+          {
+            "name": "4月",
+            "value": 2100
+          },
+          {
+            "name": "5月",
+            "value": 1350
+          },
+          {
+            "name": "6月",
+            "value": 1180
+          },
+          {
+            "name": "7月",
+            "value": 1100
+          },
+          {
+            "name": "8月",
+            "value": 2100
+          },
+          {
+            "name": "9月",
+            "value": 1350
+          },
+          {
+            "name": "10月",
+            "value": 1180
+          },
+          {
+            "name": "11月",
+            "value": 1100
+          },
+          {
+            "name": "12月",
+            "value": 2100
+          }
+        ],
+        "pay": [
+          {
+            "name": "1月",
+            "value": 1030
+          },
+          {
+            "name": "2月",
+            "value": 1830
+          },
+          {
+            "name": "3月",
+            "value": 1340
+          },
+          {
+            "name": "4月",
+            "value": 1230
+          },
+          {
+            "name": "5月",
+            "value": 1320
+          },
+          {
+            "name": "6月",
+            "value": 1930
+          },
+          {
+            "name": "7月",
+            "value": 1330
+          },
+          {
+            "name": "8月",
+            "value": 1360
+          },
+          {
+            "name": "9月",
+            "value": 1530
+          },
+          {
+            "name": "10月",
+            "value": 1330
+          },
+          {
+            "name": "11月",
+            "value": 1360
+          },
+          {
+            "name": "12月",
+            "value": 1230
+          }
+        ]
+      }
+    }
+  }
+}

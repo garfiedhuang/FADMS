@@ -1,0 +1,7 @@
+G:\FADMS\Source\DBUtility\obj\Release\Garfield.DBUtility.csprojResolveAssemblyReference.cache
+G:\FADMS\Source\DBUtility\bin\Release\Garfield.DBUtility.dll.config
+G:\FADMS\Source\DBUtility\bin\Release\Garfield.DBUtility.dll
+G:\FADMS\Source\DBUtility\bin\Release\IBatisNet.Common.dll
+G:\FADMS\Source\DBUtility\bin\Release\IBatisNet.DataMapper.dll
+G:\FADMS\Source\DBUtility\bin\Release\MySql.Data.dll
+G:\FADMS\Source\DBUtility\obj\Release\Garfield.DBUtility.dll

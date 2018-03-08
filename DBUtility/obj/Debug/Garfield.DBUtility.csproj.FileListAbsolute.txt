@@ -1,0 +1,14 @@
+E:\Demo\uuuu\code\DBUtility\bin\Debug\Garfield.DBUtility.dll.config
+E:\Demo\uuuu\code\DBUtility\bin\Debug\Garfield.DBUtility.dll
+E:\Demo\uuuu\code\DBUtility\bin\Debug\Garfield.DBUtility.pdb
+E:\Demo\uuuu\code\DBUtility\bin\Debug\MySql.Data.dll
+E:\Demo\uuuu\code\DBUtility\obj\Debug\Garfield.DBUtility.dll
+E:\Demo\uuuu\code\DBUtility\obj\Debug\Garfield.DBUtility.pdb
+E:\Demo\uuuu\code\DBUtility\obj\Debug\Garfield.DBUtility.csprojResolveAssemblyReference.cache
+E:\Demo\GarfieldCRM\DBUtility\bin\Debug\Garfield.DBUtility.dll.config
+E:\Demo\GarfieldCRM\DBUtility\bin\Debug\Garfield.DBUtility.dll
+E:\Demo\GarfieldCRM\DBUtility\bin\Debug\Garfield.DBUtility.pdb
+E:\Demo\GarfieldCRM\DBUtility\bin\Debug\MySql.Data.dll
+E:\Demo\GarfieldCRM\DBUtility\obj\Debug\Garfield.DBUtility.csprojResolveAssemblyReference.cache
+E:\Demo\GarfieldCRM\DBUtility\obj\Debug\Garfield.DBUtility.dll
+E:\Demo\GarfieldCRM\DBUtility\obj\Debug\Garfield.DBUtility.pdb

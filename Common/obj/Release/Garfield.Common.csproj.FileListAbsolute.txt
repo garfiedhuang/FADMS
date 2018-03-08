@@ -1,0 +1,9 @@
+G:\FADMS\Source\Common\bin\Release\Garfield.Common.dll
+G:\FADMS\Source\Common\bin\Release\COM.Excel.dll
+G:\FADMS\Source\Common\bin\Release\Excel.dll
+G:\FADMS\Source\Common\bin\Release\Newtonsoft.Json.dll
+G:\FADMS\Source\Common\bin\Release\OpenSmtp.dll
+G:\FADMS\Source\Common\bin\Release\OWC10Chart.dll
+G:\FADMS\Source\Common\bin\Release\Newtonsoft.Json.xml
+G:\FADMS\Source\Common\obj\Release\Garfield.Common.csprojResolveAssemblyReference.cache
+G:\FADMS\Source\Common\obj\Release\Garfield.Common.dll
